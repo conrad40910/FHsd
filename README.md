@@ -1,4 +1,4 @@
-# FHsd-Data
+# FHsd
 
 本目录包含 **FHsd 方法** 的数据说明，用于 GitHub 公开。**部分原始数据不上传 GitHub**，请从下方百度网盘下载。
 
